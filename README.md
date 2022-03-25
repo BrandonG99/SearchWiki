@@ -1,5 +1,7 @@
 # SearchWiki App
 
+![SearchWiki Project Image](https://www.brandonguard.com/images/portfolio/PortfolioImages/SearchWiki/SearchWiki%20Image1-min.png)
+
 > A Search Engine App that brings in results relevant to your search query using the WikiPedia App.
 
 ---
